@@ -22,10 +22,10 @@ public class OperationEx4 {
 		하나라도 true 이면 결과는 true 이다.
 		모든 결과가 false 여야 결과는 false 이다.
 
-		 NOT (!) -> 부정
-		 !(true || true) => false
-		 true && !false => true
-         */
+		NOT (!) -> 부정
+		!(true || true) => false
+		true && !false => true
+        */
 
     public static void main(String[] args) {
 
