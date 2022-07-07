@@ -2,12 +2,12 @@ package a05_연산자;
 
 public class OperationEx4 {
     /*
-        논리연산자
+		논리연산자
 
-        0이 아니면 무조건 true
-        0이면 false
+		0이 아니면 무조건 true
+		0이면 false
 
-        AND (&&) -> 곱
+		AND (&&) -> 곱
 		true && true = true : 1 * 1
 		true && false = false : 1 * 0
 		false & false = false : 0 * 0
