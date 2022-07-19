@@ -13,6 +13,7 @@ public class AnonymousClass {
                 System.out.println("토끼가 뜁니다.");
             }
         };
+
         Animal animal2 = new Animal() {
             @Override
             public void move() {
